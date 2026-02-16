@@ -3,18 +3,21 @@
 Ngoc-Minh Luu, Minh-Duong Nguyen, Ebrahim Bedeer Mohamed, Dinh Thai Hoang, Diep-N.-Nguyen, Nguyen Van Duc, and Quoc-Viet~Pham
 Transactions on Mobile Computing
 
-https://arxiv.org/abs/2310.07497
+[https://arxiv.org/abs/2310.07497](https://ieeexplore.ieee.org/document/11122384)
 
-Anyone re-use the code please cite the followings: 
+Anyone re-use the code please cite the following: 
 
 ```
-@article{luu2023sample,
-  title={Energy-Efficient and Real-Time Sensing for Federated Continual Learning via Sample-Driven Control},
-  author={Luu, Minh Ngoc and Nguyen, Minh-Duong and Bedeer, Ebrahim and Nguyen, Van Duc and Hoang, Dinh Thai and Nguyen, Diep N and Pham, Quoc-Viet},
-  journal={arXiv preprint arXiv:2310.07497},
-  month={Oct.},
-  year={2023}
-}
+@ARTICLE{luu2026sample,
+  author={Luu, Minh Ngoc and Nguyen, Minh-Duong and Bedeer, Ebrahim and Nguyen, Van Duc and Hoang, Dinh Thai and Nguyen, Diep N. and Pham, Quoc-Viet},
+  journal={IEEE Transactions on Mobile Computing}, 
+  title={Energy-Efficient and Real-Time Sensing for Federated Continual Learning via Sample-Driven Control}, 
+  year={2026},
+  volume={25},
+  number={1},
+  pages={372-387},
+  doi={10.1109/TMC.2025.3597713}}
+
 ```
 
 ## Running code

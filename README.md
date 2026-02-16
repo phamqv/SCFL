@@ -3,7 +3,7 @@
 Ngoc-Minh Luu, Minh-Duong Nguyen, Ebrahim Bedeer Mohamed, Dinh Thai Hoang, Diep-N.-Nguyen, Nguyen Van Duc, and Quoc-Viet~Pham
 Transactions on Mobile Computing
 
-[https://arxiv.org/abs/2310.07497](https://ieeexplore.ieee.org/document/11122384)
+https://ieeexplore.ieee.org/document/11122384
 
 Anyone re-use the code please cite the following: 
 
